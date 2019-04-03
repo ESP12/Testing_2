@@ -1,2 +1,2 @@
 # Testing_2
-Testing for uploading files
+College Activity Web Blog sample
